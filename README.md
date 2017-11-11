@@ -13,4 +13,4 @@ Certifique-se de ter um adblocker instalado em sua área de trabalho ou navegado
 * ![Adb Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
 
 Você pode importar a lista para seu Ad Block usando o endereço abaixo:
-- [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
+- [https://raw.githubusercontent.com/marcobrandobh/MinersToBlock/master/BlockedList.txt](https://raw.githubusercontent.com/marcobrandobh/MinersToBlock/master/BlockedList.txt)
