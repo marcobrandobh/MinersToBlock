@@ -1,11 +1,11 @@
 !-------------------------------------------------------------------------------------------------------
 ! Titulo: Lista de sites mineradores de cripto-moeda
-! Versão: 1
-! Data de Criação: 11 de Novembro de 2017
-! Última modificação: 11 de Novembro de 2017
+! Versao: 1
+! Data de CriaÃ§Ã£o: 11 de Novembro de 2017
+! Ultima modificacao: 11 de Novembro de 2017
 ! Pagina Inicial: https://github.com/marcobrandobh/MinersBlock
 ! Contribua: https://github.com/marcobrandobh/MinersBlock/issues
-! Description: Este filtro desativa mineradores de cripto-moeda em navegadores como coin-hive
+! Descricao: Este filtro desativa mineradores de cripto-moeda em navegadores como coin-hive
 !-------------------------------------------------------------------------------------------------------
 
 1safe.link
